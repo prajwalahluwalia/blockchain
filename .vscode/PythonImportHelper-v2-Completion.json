@@ -1,0 +1,412 @@
+[
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "ArgumentParser",
+        "importPath": "argparse",
+        "description": "argparse",
+        "isExtraImport": true,
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "ArgumentParser",
+        "importPath": "argparse",
+        "description": "argparse",
+        "isExtraImport": true,
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "Crypto",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "Crypto",
+        "description": "Crypto",
+        "detail": "Crypto",
+        "documentation": {}
+    },
+    {
+        "label": "Crypto.Random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "Crypto.Random",
+        "description": "Crypto.Random",
+        "detail": "Crypto.Random",
+        "documentation": {}
+    },
+    {
+        "label": "RSA",
+        "importPath": "Crypto.PublicKey",
+        "description": "Crypto.PublicKey",
+        "isExtraImport": true,
+        "detail": "Crypto.PublicKey",
+        "documentation": {}
+    },
+    {
+        "label": "RSA",
+        "importPath": "Crypto.PublicKey",
+        "description": "Crypto.PublicKey",
+        "isExtraImport": true,
+        "detail": "Crypto.PublicKey",
+        "documentation": {}
+    },
+    {
+        "label": "binascii",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "binascii",
+        "description": "binascii",
+        "detail": "binascii",
+        "documentation": {}
+    },
+    {
+        "label": "OrderedDict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "OrderedDict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "PKCS1_v1_5",
+        "importPath": "Crypto.Signature",
+        "description": "Crypto.Signature",
+        "isExtraImport": true,
+        "detail": "Crypto.Signature",
+        "documentation": {}
+    },
+    {
+        "label": "PKCS1_v1_5",
+        "importPath": "Crypto.Signature",
+        "description": "Crypto.Signature",
+        "isExtraImport": true,
+        "detail": "Crypto.Signature",
+        "documentation": {}
+    },
+    {
+        "label": "SHA",
+        "importPath": "Crypto.Hash",
+        "description": "Crypto.Hash",
+        "isExtraImport": true,
+        "detail": "Crypto.Hash",
+        "documentation": {}
+    },
+    {
+        "label": "SHA",
+        "importPath": "Crypto.Hash",
+        "description": "Crypto.Hash",
+        "isExtraImport": true,
+        "detail": "Crypto.Hash",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "CORS",
+        "importPath": "flask_cors",
+        "description": "flask_cors",
+        "isExtraImport": true,
+        "detail": "flask_cors",
+        "documentation": {}
+    },
+    {
+        "label": "uuid4",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "hashlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "hashlib",
+        "description": "hashlib",
+        "detail": "hashlib",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "urlparse",
+        "importPath": "urllib.parse",
+        "description": "urllib.parse",
+        "isExtraImport": true,
+        "detail": "urllib.parse",
+        "documentation": {}
+    },
+    {
+        "label": "Transaction",
+        "kind": 6,
+        "importPath": "client.client",
+        "description": "client.client",
+        "peekOfCode": "class Transaction:\n    def __init__(self, sender_public_key, sender_private_key, recipient_public_key, amount):\n        self.sender_public_key = sender_public_key\n        self.sender_private_key = sender_private_key\n        self.recipient_public_key = recipient_public_key\n        self.amount = amount\n    #generating dict for object response\n    def to_dict(self):\n        return OrderedDict({\n            'sender_public_key': self.sender_public_key,",
+        "detail": "client.client",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "client.client",
+        "description": "client.client",
+        "peekOfCode": "def index():\n    return render_template('index.html')\n@app.route('/make/transactions')\ndef make_transactions():\n    return render_template('make_transactions.html')\n@app.route('/view/transactions')\ndef view_transactions():\n    return render_template('view_transactions.html')\n@app.route('/wallet/new')\ndef new_wallet():",
+        "detail": "client.client",
+        "documentation": {}
+    },
+    {
+        "label": "make_transactions",
+        "kind": 2,
+        "importPath": "client.client",
+        "description": "client.client",
+        "peekOfCode": "def make_transactions():\n    return render_template('make_transactions.html')\n@app.route('/view/transactions')\ndef view_transactions():\n    return render_template('view_transactions.html')\n@app.route('/wallet/new')\ndef new_wallet():\n    random_gen = cr.new().read\n    private_key = RSA.generate(1024, random_gen)\n    public_key = private_key.publickey()",
+        "detail": "client.client",
+        "documentation": {}
+    },
+    {
+        "label": "view_transactions",
+        "kind": 2,
+        "importPath": "client.client",
+        "description": "client.client",
+        "peekOfCode": "def view_transactions():\n    return render_template('view_transactions.html')\n@app.route('/wallet/new')\ndef new_wallet():\n    random_gen = cr.new().read\n    private_key = RSA.generate(1024, random_gen)\n    public_key = private_key.publickey()\n    response = {\n        'private_key': binascii.hexlify(private_key.export_key(format('DER'))).decode('ascii'),\n        'public_key': binascii.hexlify(public_key.export_key(format('DER'))).decode('ascii')",
+        "detail": "client.client",
+        "documentation": {}
+    },
+    {
+        "label": "new_wallet",
+        "kind": 2,
+        "importPath": "client.client",
+        "description": "client.client",
+        "peekOfCode": "def new_wallet():\n    random_gen = cr.new().read\n    private_key = RSA.generate(1024, random_gen)\n    public_key = private_key.publickey()\n    response = {\n        'private_key': binascii.hexlify(private_key.export_key(format('DER'))).decode('ascii'),\n        'public_key': binascii.hexlify(public_key.export_key(format('DER'))).decode('ascii')\n    }\n    return jsonify(response), 200\n@app.route('/generate/transactions', methods=[\"POST\"])",
+        "detail": "client.client",
+        "documentation": {}
+    },
+    {
+        "label": "generate_transactions",
+        "kind": 2,
+        "importPath": "client.client",
+        "description": "client.client",
+        "peekOfCode": "def generate_transactions():\n    sender_public_key = request.form['sender_public_key']\n    sender_private_key = request.form['sender_private_key']\n    recipient_public_key = request.form['recipient_public_key']\n    amount = request.form['amount']\n    transaction = Transaction(sender_public_key, sender_private_key, recipient_public_key, amount)\n    response = {\n        'transaction':transaction.to_dict(),\n        'signature':transaction.sign_transaction()\n    }",
+        "detail": "client.client",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "client.client",
+        "description": "client.client",
+        "peekOfCode": "app = Flask(__name__)\n@app.route('/')\ndef index():\n    return render_template('index.html')\n@app.route('/make/transactions')\ndef make_transactions():\n    return render_template('make_transactions.html')\n@app.route('/view/transactions')\ndef view_transactions():\n    return render_template('view_transactions.html')",
+        "detail": "client.client",
+        "documentation": {}
+    },
+    {
+        "label": "Blockchain",
+        "kind": 6,
+        "importPath": "nodes.nodes",
+        "description": "nodes.nodes",
+        "peekOfCode": "class Blockchain:\n    def __init__(self):\n        self.transactions = []\n        self.chain = []\n        self.nodes = set()\n        self.node_id = str(uuid4()).replace('-', '')\n        self.create_block(0,'00')\n    def create_block(self, nonce=None, previous_hash=None):\n        \"\"\"\n        Add block of transaction in blockchain        ",
+        "detail": "nodes.nodes",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "nodes.nodes",
+        "description": "nodes.nodes",
+        "peekOfCode": "def index():\n    return render_template('./index.html')\n@app.route('/transactions/new', methods=['POST'])\ndef new_transactions():\n    values = request.form\n    required = ['confirmation_sender_public_key', 'confirmation_recipient_public_key', 'transaction_signature', 'confirmation_amount']\n    if not all(k in values for k in required):\n        return 'Missing values', 400\n    amount = values[\"confirmation_amount\"]\n    sender_public_key = values[\"confirmation_sender_public_key\"]",
+        "detail": "nodes.nodes",
+        "documentation": {}
+    },
+    {
+        "label": "new_transactions",
+        "kind": 2,
+        "importPath": "nodes.nodes",
+        "description": "nodes.nodes",
+        "peekOfCode": "def new_transactions():\n    values = request.form\n    required = ['confirmation_sender_public_key', 'confirmation_recipient_public_key', 'transaction_signature', 'confirmation_amount']\n    if not all(k in values for k in required):\n        return 'Missing values', 400\n    amount = values[\"confirmation_amount\"]\n    sender_public_key = values[\"confirmation_sender_public_key\"]\n    signature = values[\"transaction_signature\"]\n    recipient_public_key = values[\"confirmation_recipient_public_key\"]\n    result = blockchain.submit_transaction(sender_public_key, recipient_public_key, signature, amount)",
+        "detail": "nodes.nodes",
+        "documentation": {}
+    },
+    {
+        "label": "get_transactions",
+        "kind": 2,
+        "importPath": "nodes.nodes",
+        "description": "nodes.nodes",
+        "peekOfCode": "def get_transactions():\n    transactions = blockchain.transactions\n    response = {'transactions': transactions}\n    return jsonify(response), 200\n@app.route('/chain', methods=['GET'])\ndef get_chain():\n    response = {\n        'chain': blockchain.chain,\n        'length': len(blockchain.chain)\n    }",
+        "detail": "nodes.nodes",
+        "documentation": {}
+    },
+    {
+        "label": "get_chain",
+        "kind": 2,
+        "importPath": "nodes.nodes",
+        "description": "nodes.nodes",
+        "peekOfCode": "def get_chain():\n    response = {\n        'chain': blockchain.chain,\n        'length': len(blockchain.chain)\n    }\n    return jsonify(response), 200\n@app.route('/mine', methods=['GET'])\ndef mine():\n    nonce = blockchain.proof_of_work()\n    blockchain.submit_transaction(sender_public_key=MINING_SENDER,",
+        "detail": "nodes.nodes",
+        "documentation": {}
+    },
+    {
+        "label": "mine",
+        "kind": 2,
+        "importPath": "nodes.nodes",
+        "description": "nodes.nodes",
+        "peekOfCode": "def mine():\n    nonce = blockchain.proof_of_work()\n    blockchain.submit_transaction(sender_public_key=MINING_SENDER,\n                                  recipient_public_key=blockchain.node_id,\n                                  signature='', \n                                  amount=MINNING_REWARD\n                                )\n    last_block = blockchain.chain[-1]\n    previous_hash = blockchain.hash(last_block)\n    block = blockchain.create_block(nonce, previous_hash)",
+        "detail": "nodes.nodes",
+        "documentation": {}
+    },
+    {
+        "label": "configure",
+        "kind": 2,
+        "importPath": "nodes.nodes",
+        "description": "nodes.nodes",
+        "peekOfCode": "def configure():\n    return render_template('configure.html')\n@app.route('/nodes/get', methods=['GET'])\ndef get_nodes():\n    nodes = list(blockchain.nodes)\n    response = {'nodes':nodes}\n    return jsonify(response), 200\n@app.route('/nodes/register', methods=['POST'])\ndef register_nodes():\n    values = request.form",
+        "detail": "nodes.nodes",
+        "documentation": {}
+    },
+    {
+        "label": "get_nodes",
+        "kind": 2,
+        "importPath": "nodes.nodes",
+        "description": "nodes.nodes",
+        "peekOfCode": "def get_nodes():\n    nodes = list(blockchain.nodes)\n    response = {'nodes':nodes}\n    return jsonify(response), 200\n@app.route('/nodes/register', methods=['POST'])\ndef register_nodes():\n    values = request.form\n    print(values)\n    # 127.0.0.1:5052, 127.0.0.1:5053, 127.0.0.1:5054\n    nodes = values.get('nodes').replace(' ', '').split(',')",
+        "detail": "nodes.nodes",
+        "documentation": {}
+    },
+    {
+        "label": "register_nodes",
+        "kind": 2,
+        "importPath": "nodes.nodes",
+        "description": "nodes.nodes",
+        "peekOfCode": "def register_nodes():\n    values = request.form\n    print(values)\n    # 127.0.0.1:5052, 127.0.0.1:5053, 127.0.0.1:5054\n    nodes = values.get('nodes').replace(' ', '').split(',')\n    print(nodes,'##########################')\n    if not nodes[0]:\n        return 'Error: Please supply valid node list', 400\n    for node_url in nodes:\n        blockchain.register_node(node_url)",
+        "detail": "nodes.nodes",
+        "documentation": {}
+    },
+    {
+        "label": "MINING_SENDER",
+        "kind": 5,
+        "importPath": "nodes.nodes",
+        "description": "nodes.nodes",
+        "peekOfCode": "MINING_SENDER = \"BLOCKCHAIN\"\nMINNING_REWARD=1\nMINNING_DIFFICULTY = 2\nclass Blockchain:\n    def __init__(self):\n        self.transactions = []\n        self.chain = []\n        self.nodes = set()\n        self.node_id = str(uuid4()).replace('-', '')\n        self.create_block(0,'00')",
+        "detail": "nodes.nodes",
+        "documentation": {}
+    },
+    {
+        "label": "MINNING_DIFFICULTY",
+        "kind": 5,
+        "importPath": "nodes.nodes",
+        "description": "nodes.nodes",
+        "peekOfCode": "MINNING_DIFFICULTY = 2\nclass Blockchain:\n    def __init__(self):\n        self.transactions = []\n        self.chain = []\n        self.nodes = set()\n        self.node_id = str(uuid4()).replace('-', '')\n        self.create_block(0,'00')\n    def create_block(self, nonce=None, previous_hash=None):\n        \"\"\"",
+        "detail": "nodes.nodes",
+        "documentation": {}
+    },
+    {
+        "label": "blockchain",
+        "kind": 5,
+        "importPath": "nodes.nodes",
+        "description": "nodes.nodes",
+        "peekOfCode": "blockchain = Blockchain()\n#initialise node\napp = Flask(__name__)\nCORS(app)\n@app.route('/')\ndef index():\n    return render_template('./index.html')\n@app.route('/transactions/new', methods=['POST'])\ndef new_transactions():\n    values = request.form",
+        "detail": "nodes.nodes",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "nodes.nodes",
+        "description": "nodes.nodes",
+        "peekOfCode": "app = Flask(__name__)\nCORS(app)\n@app.route('/')\ndef index():\n    return render_template('./index.html')\n@app.route('/transactions/new', methods=['POST'])\ndef new_transactions():\n    values = request.form\n    required = ['confirmation_sender_public_key', 'confirmation_recipient_public_key', 'transaction_signature', 'confirmation_amount']\n    if not all(k in values for k in required):",
+        "detail": "nodes.nodes",
+        "documentation": {}
+    }
+]

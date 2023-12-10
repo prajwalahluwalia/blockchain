@@ -1,0 +1,4 @@
+name: bchain
+channels:
+  - defaults
+prefix: /home/prajwal/anaconda3/envs/bchain
